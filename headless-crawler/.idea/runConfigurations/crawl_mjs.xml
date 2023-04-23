@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="crawl.mjs" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="crawl.mjs" working-dir="$PROJECT_DIR$">
+    <envs>
+      <env name="CRAWLEE_LOG_LEVEL" value="debug" />
+    </envs>
+    <method v="2" />
+  </configuration>
+</component>
